@@ -1,8 +1,8 @@
 //Timothy Dusek
 //2/15/18
-#include<stdio.h>
+#include <stdio.h>
 #include <math.h>
-#include<stdlib.h>
+#include <stdlib.h>
 
 int main()
 {
